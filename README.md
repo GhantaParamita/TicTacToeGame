@@ -19,6 +19,7 @@ Pure Vanilla JavaScript (no frameworks)
 Clone the repository:
 
 git clone https://github.com/GhantaParamita/TicTacToeGame.git
+
 cd TicTacToeGame
 
 
